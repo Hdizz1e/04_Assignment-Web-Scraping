@@ -1,0 +1,51 @@
+Ranks,Name,Industry,Revenue (USD$),Profit (USD$),Employees,Country,State-owned
+1,Amazon,Retail  Information technology,716000000000,79900000000.0,1576000,United States,False
+2,Walmart,Retail,713000000000,21800000000.0,2100000,United States,False
+3,State Grid Corporation of China,Electricity,545000000000,9200000000.0,1361423,China,True
+4,Saudi Aramco,Oil and gas,480000000000,106000000000.0,73311,Saudi Arabia,True
+5,China National Petroleum Corporation,Oil and gas,476000000000,25200000000.0,1026301,China,True
+6,China Petrochemical Corporation,Oil and gas,429000000000,9300000000.0,513434,China,True
+7,Apple,Information technology,416000000000,112000000000.0,166000,United States,False
+8,Alphabet,Information technology,402000000000,132000000000.0,190820,United States,False
+9,UnitedHealth Group,Healthcare,400000000000,14400000000.0,400000,United States,False
+10,Berkshire Hathaway,Financials,371000000000,88900000000.0,392400,United States,False
+11,CVS Health,Healthcare,357000000000,8300000000.000001,259500,United States,False
+12,Volkswagen Group,Automotive,348000000000,17900000000.0,684025,Germany,False
+13,ExxonMobil,Oil and gas,344000000000,36000000000.0,61500,United States,False
+14,Vitol,Commodities,331000000000,13000000000.0,1560,Switzerland,False
+15,Shell,Oil and gas,323000000000,19300000000.0,103000,United Kingdom,False
+16,China State Construction Engineering,Construction,320000000000,4200000000.0,382894,China,True
+17,Toyota,Automotive,312000000000,34200000000.000004,380793,Japan,False
+18,McKesson,Healthcare,308000000000,3000000000.0,48000,United States,False
+19,Microsoft,Information technology,281000000000,101000000000.0,228000,United States,False
+20,Cencora,Healthcare,262000000000,1700000000.0,44000,United States,False
+21,Trafigura,Commodities,244000000000,7300000000.0,12479,Singapore,False
+22,Costco,Retail,242000000000,6200000000.0,316000,United States,False
+23,JPMorgan Chase,Financials,239000000000,49500000000.0,309926,United States,False
+24,Industrial and Commercial Bank of China,Financials,222000000000,51400000000.0,419252,China,True
+25,Schwarz Gruppe,Retail,220000000000,,604000,Germany,False
+26,TotalEnergies,Oil and gas,218000000000,21300000000.0,102579,France,False
+27,Glencore,Commodities,217000000000,4200000000.0,83426,Switzerland,False
+28,Nvidia,Semiconductors,215000000000,120000000000.0,36000,United States,False
+29,BP,Oil and gas,213000000000,15200000000.0,79400,United Kingdom,False
+30,Cardinal Health,Healthcare,205000000000,260000000.0,47520,United States,False
+31,Stellantis,Automotive,204000000000,20100000000.0,258275,Netherlands,False
+32,Chevron,Oil and gas,200000000000,21300000000.0,45600,United States,False
+33,China Construction Bank,Financials,199000000000,46900000000.0,376871,China,True
+34,Samsung Electronics,Electronics,198000000000,11000000000.0,267860,South Korea,False
+35,Foxconn,Electronics,197000000000,4500000000.0,621393,Taiwan,False
+36,Cigna,Healthcare,195000000000,5100000000.0,71413,United States,False
+37,Agricultural Bank of China,Financials,192000000000,38000000000.0,451003,China,True
+38,China Railway Engineering Corporation,Construction,178000000000,2100000000.0,314149,China,True
+39,Cargill,Conglomerate,177000000000,17600000000.0,160000,United States,False
+40,Ford Motor Company,Automotive,176000000000,4300000000.0,177000,United States,False
+41,Bank of China,Financials,172000000000,32700000000.000004,306931,China,True
+42,Bank of America,Financials,171000000000,26500000000.0,212985,United States,False
+43,General Motors,Automotive,171000000000,10100000000.0,163000,United States,False
+44,Elevance Health,Healthcare,171000000000,5900000000.0,104900,United States,False
+45,BMW Group,Automotive,168000000000,12200000000.0,154950,Germany,False
+46,Mercedes-Benz Group,Automotive,165000000000,15400000000.0,166056,Germany,False
+47,Meta Platforms,Social media,164000000000,62300000000.0,78450,United States,False
+48,China Railway Construction Corporation,Construction,160000000000,1700000000.0,336433,China,True
+49,Baowu,Steel,157000000000,2400000000.0,258697,China,True
+50,Citigroup,Financials,156000000000,9200000000.0,237925,United States,False
